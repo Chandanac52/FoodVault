@@ -39,7 +39,7 @@ FoodVault/
 ## Installation and Setup
 
 1. Clone the repository:
-   git clone https://github.com/your-username/FoodVault.git  
+   git clone https://github.com/Chandanac52/FoodVault.git  
    cd FoodVault  
 
 2. Setup Backend:
